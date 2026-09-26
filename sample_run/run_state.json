@@ -1,0 +1,35 @@
+{
+  "run_id": "1f5423e3",
+  "plan": [
+    "Inventory: 8 sources, 110 evidence records",
+    "Do not trust largest (dictionary_A) or newest file automatically",
+    "Retrieve evidence for risky scenes first (kinship, humour, gaps)",
+    "Form and test hypotheses with counterexamples visible",
+    "Translate only from evidence; independent verify; escalate uncertainty",
+    "Apply mid-run correction to affected subtitles only",
+    "Priority order: S002, S006, S005, S003, S001, S004, S007, S008"
+  ],
+  "model_calls": 19,
+  "tool_calls": 14,
+  "release_recommendation": "HOLD_FOR_HUMAN_REVIEW",
+  "corrections": [
+    {
+      "correction_id": "C-R17",
+      "source_id": "linguist_midrun",
+      "old_claim": "Example E03 is an approved casual form for elder brother after return.",
+      "new_claim": "Grammar rule R17: after reconciliation with an older sibling, the respectful form bira-ka is required. Example E03 is withdrawn.",
+      "notes": "Arrives halfway through processing in evaluation. Demonstration correction for the sample pack.",
+      "affected_hypotheses": [
+        "HYP-003"
+      ],
+      "affected_subtitles": [
+        "S002"
+      ]
+    }
+  ],
+  "affected_subtitles": [
+    "S002"
+  ],
+  "errors": [],
+  "notes": []
+}

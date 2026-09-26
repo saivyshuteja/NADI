@@ -1,0 +1,227 @@
+{
+  "hypotheses": [
+    {
+      "hypothesis_id": "HYP-001",
+      "claim": "Default clause order is Subject-Object-Verb.",
+      "category": "word_order",
+      "status": "SUPPORTED",
+      "confidence": 0.86,
+      "supporting_evidence": [
+        "example:E01",
+        "example:E02",
+        "example:E03",
+        "example:E07",
+        "example:E12",
+        "example:E13",
+        "example:E17",
+        "grammar:grammar:3"
+      ],
+      "counterexamples": [],
+      "notes": "Grammar note plus multiple approved examples."
+    },
+    {
+      "hypothesis_id": "HYP-002",
+      "claim": "Negation uses clause-final or post-verbal particle 'na'.",
+      "category": "negation",
+      "status": "SUPPORTED",
+      "confidence": 0.84,
+      "supporting_evidence": [
+        "example:E08",
+        "example:E11",
+        "example:E20",
+        "grammar:grammar:2",
+        "grammar:grammar:5",
+        "grammar:grammar:7"
+      ],
+      "counterexamples": [],
+      "notes": ""
+    },
+    {
+      "hypothesis_id": "HYP-003",
+      "claim": "Kinship terminology changes with social status: older-sibling address uses bira-ka; peer talk may use bira.",
+      "category": "respect",
+      "status": "SUPPORTED",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "example:E07",
+        "expert:expert_notes:1",
+        "expert:expert_notes:2",
+        "interview:interview_1",
+        "interview:interview_5",
+        "correction:C-R17"
+      ],
+      "counterexamples": [
+        "example:E13",
+        "example:E03-withdrawn"
+      ],
+      "notes": "Grammar rule R17: after reconciliation with an older sibling, the respectful form bira-ka is required. Example E03 is withdrawn."
+    },
+    {
+      "hypothesis_id": "HYP-004",
+      "claim": "The lemma 'brother' has conflicting Nadi-9 forms across dictionaries (bira vs anbira).",
+      "category": "relationships",
+      "status": "CONTESTED",
+      "confidence": 0.4,
+      "supporting_evidence": [
+        "dictionary:dictionary_A:term-28",
+        "dictionary:dictionary_A:term-44",
+        "dictionary:dictionary_B:term-19"
+      ],
+      "counterexamples": [],
+      "notes": "Do not auto-select the largest dictionary."
+    },
+    {
+      "hypothesis_id": "HYP-005",
+      "claim": "Past motion is often marked with verb form 'ven'; later time uses adverb 'pachi'.",
+      "category": "tense",
+      "status": "SUPPORTED",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "example:E01",
+        "example:E02",
+        "example:E03",
+        "example:E07",
+        "example:E12",
+        "example:E13",
+        "grammar:grammar:4"
+      ],
+      "counterexamples": [],
+      "notes": ""
+    },
+    {
+      "hypothesis_id": "HYP-006",
+      "claim": "Unassimilated technical English terms have no documented Nadi-9 equivalent and must not be invented.",
+      "category": "code-switching",
+      "status": "SUPPORTED",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "grammar:grammar:7"
+      ],
+      "counterexamples": [],
+      "notes": ""
+    },
+    {
+      "hypothesis_id": "HYP-007",
+      "claim": "Example E18 token 'zinglo' is an approved humorous form.",
+      "category": "humour",
+      "status": "INVALIDATED",
+      "confidence": 0.05,
+      "supporting_evidence": [
+        "example:E18"
+      ],
+      "counterexamples": [
+        "interview:interview_3"
+      ],
+      "notes": "Interview evidence disputes zinglo. Do not promote an unsupported LLM-invented grammar rule."
+    }
+  ],
+  "tests": [
+    {
+      "hypothesis_id": "HYP-001",
+      "passed": true,
+      "supporting": [
+        "example:E01",
+        "example:E02",
+        "example:E03",
+        "example:E07",
+        "example:E12",
+        "example:E13",
+        "example:E17",
+        "grammar:grammar:3"
+      ],
+      "contradicting": [],
+      "summary": "SUPPORTED: 8 supporting, 0 counterexamples. Attested token inventory size=33."
+    },
+    {
+      "hypothesis_id": "HYP-002",
+      "passed": true,
+      "supporting": [
+        "example:E08",
+        "example:E11",
+        "example:E20",
+        "grammar:grammar:2",
+        "grammar:grammar:5",
+        "grammar:grammar:7"
+      ],
+      "contradicting": [],
+      "summary": "SUPPORTED: 6 supporting, 0 counterexamples. Attested token inventory size=33."
+    },
+    {
+      "hypothesis_id": "HYP-003",
+      "passed": false,
+      "supporting": [
+        "example:E07",
+        "expert:expert_notes:1",
+        "expert:expert_notes:2",
+        "interview:interview_1",
+        "interview:interview_5"
+      ],
+      "contradicting": [
+        "example:E03",
+        "example:E13"
+      ],
+      "summary": "CONTESTED: 5 supporting, 2 counterexamples. Attested token inventory size=33."
+    },
+    {
+      "hypothesis_id": "HYP-004",
+      "passed": false,
+      "supporting": [
+        "dictionary:dictionary_A:term-28",
+        "dictionary:dictionary_A:term-44",
+        "dictionary:dictionary_B:term-19"
+      ],
+      "contradicting": [],
+      "summary": "CONTESTED: 3 supporting, 0 counterexamples. Attested token inventory size=33."
+    },
+    {
+      "hypothesis_id": "HYP-005",
+      "passed": true,
+      "supporting": [
+        "example:E01",
+        "example:E02",
+        "example:E03",
+        "example:E07",
+        "example:E12",
+        "example:E13",
+        "grammar:grammar:4"
+      ],
+      "contradicting": [],
+      "summary": "SUPPORTED: 7 supporting, 0 counterexamples. Attested token inventory size=33."
+    },
+    {
+      "hypothesis_id": "HYP-006",
+      "passed": true,
+      "supporting": [
+        "grammar:grammar:7"
+      ],
+      "contradicting": [],
+      "summary": "SUPPORTED: 1 supporting, 0 counterexamples. Attested token inventory size=33."
+    },
+    {
+      "hypothesis_id": "HYP-007",
+      "passed": false,
+      "supporting": [
+        "example:E18"
+      ],
+      "contradicting": [
+        "interview:interview_3"
+      ],
+      "summary": "CONTESTED: 1 supporting, 1 counterexamples. Attested token inventory size=33."
+    }
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "conflict:001",
+      "term": "brother",
+      "claims": [
+        "anbira",
+        "bira"
+      ],
+      "evidence_ids": [
+        "dictionary:dictionary_A:term-28",
+        "dictionary:dictionary_A:term-44",
+        "dictionary:dictionary_B:term-19"
+      ]
+    }
+  ]
+}

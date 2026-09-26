@@ -1,0 +1,22 @@
+[
+  {
+    "subtitle_id": "S005",
+    "reason": "Approved example E18 uses an independently unattested token; escalate rather than copy a challenged form.; conflicts present",
+    "review_question": "Is 'zinglo' acceptable in this humour line, or should hasa be used alone?",
+    "status": "queued",
+    "evidence": [
+      "example:E18",
+      "interview:interview_3"
+    ]
+  },
+  {
+    "subtitle_id": "S006",
+    "reason": "Required source term has no attested Nadi-9 form in the evidence pack.",
+    "review_question": "What Nadi-9 form, if any, should be used for the unsupported term?",
+    "status": "queued",
+    "evidence": [
+      "dictionary:dictionary_B:term-23",
+      "dictionary:dictionary_B:term-10"
+    ]
+  }
+]

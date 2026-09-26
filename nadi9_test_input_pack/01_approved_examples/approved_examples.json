@@ -1,0 +1,182 @@
+[
+  {
+    "id": "EX01",
+    "source": "Good morning, elder.",
+    "nadi9": "sava toren.",
+    "speaker": "Mira",
+    "scene": "family kitchen",
+    "context": "young adult addressing older sibling",
+    "status": "approved"
+  },
+  {
+    "id": "EX02",
+    "source": "Good morning, friend.",
+    "nadi9": "sava neli.",
+    "speaker": "Mira",
+    "scene": "market",
+    "context": "peer-to-peer greeting",
+    "status": "approved"
+  },
+  {
+    "id": "EX03",
+    "source": "I am going home.",
+    "nadi9": "mi doma ke.",
+    "speaker": "Ranu",
+    "scene": "street",
+    "context": "neutral statement",
+    "status": "approved"
+  },
+  {
+    "id": "EX04",
+    "source": "I went home yesterday.",
+    "nadi9": "mi doma ta-ke.",
+    "speaker": "Ranu",
+    "scene": "street",
+    "context": "past action",
+    "status": "approved"
+  },
+  {
+    "id": "EX05",
+    "source": "I will go tomorrow.",
+    "nadi9": "mi doma lo-ke.",
+    "speaker": "Ranu",
+    "scene": "bus stop",
+    "context": "future intention",
+    "status": "approved"
+  },
+  {
+    "id": "EX06",
+    "source": "Do not go there.",
+    "nadi9": "na doma-ru.",
+    "speaker": "Mira",
+    "scene": "river path",
+    "context": "direct warning to peer",
+    "status": "approved"
+  },
+  {
+    "id": "EX07",
+    "source": "Please sit.",
+    "nadi9": "sela va.",
+    "speaker": "Mira",
+    "scene": "family room",
+    "context": "polite request",
+    "status": "approved"
+  },
+  {
+    "id": "EX08",
+    "source": "Please wait, elder.",
+    "nadi9": "toren sela va.",
+    "speaker": "Mira",
+    "scene": "family room",
+    "context": "polite request to older sibling",
+    "status": "approved"
+  },
+  {
+    "id": "EX09",
+    "source": "We are working.",
+    "nadi9": "ni kava ke.",
+    "speaker": "Ranu",
+    "scene": "workshop",
+    "context": "present activity",
+    "status": "approved"
+  },
+  {
+    "id": "EX10",
+    "source": "We worked yesterday.",
+    "nadi9": "ni kava ta-ke.",
+    "speaker": "Ranu",
+    "scene": "workshop",
+    "context": "past activity",
+    "status": "approved"
+  },
+  {
+    "id": "EX11",
+    "source": "We will work tomorrow.",
+    "nadi9": "ni kava lo-ke.",
+    "speaker": "Ranu",
+    "scene": "workshop",
+    "context": "future activity",
+    "status": "approved"
+  },
+  {
+    "id": "EX12",
+    "source": "Thank you, teacher.",
+    "nadi9": "sena loru.",
+    "speaker": "Mira",
+    "scene": "classroom",
+    "context": "student to teacher",
+    "status": "approved"
+  },
+  {
+    "id": "EX13",
+    "source": "Thank you, friend.",
+    "nadi9": "sena neli.",
+    "speaker": "Mira",
+    "scene": "market",
+    "context": "peer-to-peer",
+    "status": "approved"
+  },
+  {
+    "id": "EX14",
+    "source": "That is not mine.",
+    "nadi9": "ra mi na.",
+    "speaker": "Ranu",
+    "scene": "home",
+    "context": "negation",
+    "status": "approved"
+  },
+  {
+    "id": "EX15",
+    "source": "Where are you going?",
+    "nadi9": "tu doma ke?",
+    "speaker": "Mira",
+    "scene": "street",
+    "context": "question to peer",
+    "status": "approved"
+  },
+  {
+    "id": "EX16",
+    "source": "Why are you late?",
+    "nadi9": "tu vesa na?",
+    "speaker": "Mira",
+    "scene": "workshop",
+    "context": "informal question",
+    "status": "approved"
+  },
+  {
+    "id": "EX17",
+    "source": "I will call you later.",
+    "nadi9": "mi rako lo.",
+    "speaker": "Ranu",
+    "scene": "bus stop",
+    "context": "future intention",
+    "status": "approved"
+  },
+  {
+    "id": "EX18",
+    "source": "Come here, friend.",
+    "nadi9": "neli hara.",
+    "speaker": "Mira",
+    "scene": "market",
+    "context": "informal imperative",
+    "status": "approved"
+  },
+  {
+    "id": "EX19",
+    "source": "Come here, elder.",
+    "nadi9": "toren hara va.",
+    "speaker": "Mira",
+    "scene": "family room",
+    "context": "respectful imperative",
+    "status": "approved"
+  },
+  {
+    "id": "EX20",
+    "source": "I did not go.",
+    "nadi9": "mi na doma-ta.",
+    "speaker": "Ranu",
+    "scene": "street",
+    "context": "past negation",
+    "status": "approved"
+  }
+]

@@ -1,0 +1,22 @@
+entry_id,term,meaning,category,source
+A001,sava,good morning / greeting,common,vendor_dictionary
+A002,toren,older sibling / elder,common,vendor_dictionary
+A003,neli,friend / peer,common,vendor_dictionary
+A004,doma,go / home,common,vendor_dictionary
+A005,ke,present marker,grammar,vendor_dictionary
+A006,ta-ke,past marker,grammar,vendor_dictionary
+A007,lo-ke,future marker,grammar,vendor_dictionary
+A008,na,not / do not,common,vendor_dictionary
+A009,sela,sit / wait,common,vendor_dictionary
+A010,va,politeness particle,common,vendor_dictionary
+A011,kava,work,common,vendor_dictionary
+A012,sena,thank you,common,vendor_dictionary
+A013,loru,teacher,common,vendor_dictionary
+A014,vesa,late,common,vendor_dictionary
+A015,rako,call,common,vendor_dictionary
+A016,hara,come / here,common,vendor_dictionary
+A017,ra,that / it,common,vendor_dictionary
+A018,mi,I / me,pronoun,vendor_dictionary
+A019,ni,we / us,pronoun,vendor_dictionary
+A020,tu,you,pronoun,vendor_dictionary
+A021,kori,elder sibling (alternative),kinship,vendor_dictionary

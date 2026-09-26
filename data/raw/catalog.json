@@ -1,0 +1,84 @@
+{
+  "sources": [
+    {
+      "source_id": "examples",
+      "source_type": "example",
+      "title": "20 approved examples",
+      "author": "Pilot localization desk",
+      "date": "2025-02-01",
+      "scope": "Short source-to-Nadi-9 pairs",
+      "reliability": 0.78,
+      "version": "1"
+    },
+    {
+      "source_id": "dictionary_A",
+      "source_type": "dictionary",
+      "title": "Vendor Dictionary A",
+      "author": "Prior vendor",
+      "date": "2024-11-02",
+      "scope": "Broad vocabulary",
+      "reliability": 0.45,
+      "version": "1"
+    },
+    {
+      "source_id": "dictionary_B",
+      "source_type": "dictionary",
+      "title": "Community Dictionary B",
+      "author": "N. Vare",
+      "date": "2025-03-18",
+      "scope": "Community vocabulary",
+      "reliability": 0.68,
+      "version": "1"
+    },
+    {
+      "source_id": "grammar",
+      "source_type": "grammar",
+      "title": "Grammar note",
+      "author": "Internal memo",
+      "date": "2025-01-12",
+      "scope": "SOV, tense, politeness, negation",
+      "reliability": 0.72,
+      "version": "1"
+    },
+    {
+      "source_id": "expert_notes",
+      "source_type": "expert",
+      "title": "Expert notes",
+      "author": "Soren; Mehta; Iyer",
+      "date": "2025-04-09",
+      "scope": "Kinship and register",
+      "reliability": 0.6,
+      "version": "1"
+    },
+    {
+      "source_id": "viewer_feedback",
+      "source_type": "feedback",
+      "title": "Viewer feedback",
+      "author": "Pilot viewers",
+      "date": "2025-05-01",
+      "scope": "Preferences and noise",
+      "reliability": 0.35,
+      "version": "1"
+    },
+    {
+      "source_id": "interviews",
+      "source_type": "interview",
+      "title": "Interview transcripts (audio stand-ins)",
+      "author": "Native-speaker interviews",
+      "date": "2025-03-01",
+      "scope": "Family, work, humour, status",
+      "reliability": 0.7,
+      "version": "1"
+    },
+    {
+      "source_id": "episode",
+      "source_type": "episode",
+      "title": "Episode-01 source",
+      "author": "Editorial",
+      "date": "2025-06-01",
+      "scope": "Timed transcript",
+      "reliability": 1.0,
+      "version": "1"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "episode_id": "Episode-01",
+  "title": "The Door",
+  "segments": [
+    {
+      "subtitle_id": "S001",
+      "start_time": "00:00:01,000",
+      "end_time": "00:00:03,200",
+      "speaker": "Mina",
+      "scene": "doorway",
+      "source_text": "Hello."
+    },
+    {
+      "subtitle_id": "S002",
+      "start_time": "00:00:03,400",
+      "end_time": "00:00:06,000",
+      "speaker": "Mina",
+      "scene": "reunion",
+      "source_text": "You came back, elder brother?"
+    },
+    {
+      "subtitle_id": "S003",
+      "start_time": "00:00:06,200",
+      "end_time": "00:00:08,400",
+      "speaker": "Ravi",
+      "scene": "reunion",
+      "source_text": "I came home."
+    },
+    {
+      "subtitle_id": "S004",
+      "start_time": "00:00:08,600",
+      "end_time": "00:00:11,000",
+      "speaker": "Ama",
+      "scene": "kitchen",
+      "source_text": "The food is not ready."
+    },
+    {
+      "subtitle_id": "S005",
+      "start_time": "00:00:11,200",
+      "end_time": "00:00:14,000",
+      "speaker": "Ravi",
+      "scene": "humour",
+      "source_text": "The joke is funny."
+    },
+    {
+      "subtitle_id": "S006",
+      "start_time": "00:00:14,200",
+      "end_time": "00:00:17,500",
+      "speaker": "Mina",
+      "scene": "yard",
+      "source_text": "Please wait. The telescope is here."
+    },
+    {
+      "subtitle_id": "S007",
+      "start_time": "00:00:17,700",
+      "end_time": "00:00:20,200",
+      "speaker": "Aba",
+      "scene": "workshop",
+      "source_text": "The work is finished."
+    },
+    {
+      "subtitle_id": "S008",
+      "start_time": "00:00:20,400",
+      "end_time": "00:00:23,000",
+      "speaker": "Mina",
+      "scene": "call",
+      "source_text": "Yes, family is home."
+    }
+  ]
+}

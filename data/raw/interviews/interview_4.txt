@@ -1,0 +1,3 @@
+Speaker: Community linguist assistant. Topic: dictionaries.
+
+Dictionary A is large and messy. Dictionary B is smaller and careful on kinship. They disagree on brother. Do not pick the biggest list by default.

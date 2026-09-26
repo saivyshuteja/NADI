@@ -1,0 +1,25 @@
+{
+  "pack_notice": "SYNTHETIC DEMONSTRATION PACK. This is not the hidden evaluator evidence pack. Replace data/raw with the official assignment pack when supplied. Do not treat these forms as real Nadi-9.",
+  "examples": [
+    {"id": "E01", "source": "The work is finished.", "nadi9": "kama loven.", "speaker": "Ravi", "scene": "workshop", "notes": "SOV; past marked by verb form ven."},
+    {"id": "E02", "source": "I came home.", "nadi9": "ka gharu ven.", "speaker": "Ravi", "scene": "doorway"},
+    {"id": "E03", "source": "Elder brother came back.", "nadi9": "ela bira retu ven.", "speaker": "Mina", "scene": "reunion", "notes": "CHALLENGED later: missing respectful -ka after status repair."},
+    {"id": "E04", "source": "Thank you.", "nadi9": "dhany.", "speaker": "Mina", "scene": "kitchen"},
+    {"id": "E05", "source": "We wait now.", "nadi9": "kara ida rahu.", "speaker": "Ravi", "scene": "yard"},
+    {"id": "E06", "source": "Mother said no.", "nadi9": "ama na kath.", "speaker": "child", "scene": "home"},
+    {"id": "E07", "source": "You came back, elder brother?", "nadi9": "ti ela bira-ka retu ven?", "speaker": "Mina", "scene": "reunion", "notes": "Respectful kinship -ka when addressing an older sibling."},
+    {"id": "E08", "source": "The food is not ready.", "nadi9": "anna tayar na.", "speaker": "Ama", "scene": "kitchen"},
+    {"id": "E09", "source": "Friend, wait.", "nadi9": "mitra, rahu.", "speaker": "Ravi", "scene": "street"},
+    {"id": "E10", "source": "Father works later.", "nadi9": "aba pachi kama.", "speaker": "Mina", "scene": "morning"},
+    {"id": "E11", "source": "I do not say.", "nadi9": "ka kath na.", "speaker": "Ravi", "scene": "humour"},
+    {"id": "E12", "source": "The child came.", "nadi9": "bacha ven.", "speaker": "Ama", "scene": "yard"},
+    {"id": "E13", "source": "Brother came.", "nadi9": "bira ven.", "speaker": "peer", "scene": "peer-talk", "notes": "Counterexample to always-using -ka; peers omit -ka."},
+    {"id": "E14", "source": "Yes, family is home.", "nadi9": "aha, kula gharu.", "speaker": "Mina", "scene": "call"},
+    {"id": "E15", "source": "Please wait.", "nadi9": "kripa rahu.", "speaker": "Ravi", "scene": "shop"},
+    {"id": "E16", "source": "She said thank you.", "nadi9": "lo dhany kath.", "speaker": "narrator", "scene": "kitchen"},
+    {"id": "E17", "source": "We came back.", "nadi9": "kara retu ven.", "speaker": "Ravi", "scene": "bus"},
+    {"id": "E18", "source": "The joke is funny.", "nadi9": "hasa zinglo.", "speaker": "Ravi", "scene": "humour", "notes": "CHALLENGED: zinglo has no independent dictionary support."},
+    {"id": "E19", "source": "Greeting at the door.", "nadi9": "salu.", "speaker": "Mina", "scene": "doorway"},
+    {"id": "E20", "source": "Money is not here.", "nadi9": "dhan ida na.", "speaker": "Aba", "scene": "workshop"}
+  ]
+}

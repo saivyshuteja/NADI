@@ -1,0 +1,21 @@
+# Episode 01 — Synthetic Test Episode
+
+## Metadata
+episode_id: EP01
+language: source-language (fictional test source)
+note: All Nadi-9 forms in this package are synthetic fixtures.
+
+## Subtitles
+
+S01 | 00:00:01,000 --> 00:00:03,000 | Mira | Good morning, elder.
+S02 | 00:00:03,200 --> 00:00:05,000 | Ranu | Good morning, friend.
+S03 | 00:00:05,500 --> 00:00:08,000 | Ranu | I went home yesterday.
+S04 | 00:00:08,300 --> 00:00:10,300 | Mira | Please wait, elder.
+S05 | 00:00:10,600 --> 00:00:13,000 | Mira | Do not go there.
+S06 | 00:00:13,300 --> 00:00:16,000 | Ranu | We will work tomorrow.
+S07 | 00:00:16,300 --> 00:00:19,500 | Kiro | That joke was totally cool, bro.
+S08 | 00:00:19,800 --> 00:00:22,000 | Tena | Thank you, teacher.
+S09 | 00:00:22,300 --> 00:00:24,000 | Mira | Come here, elder.
+S10 | 00:00:24,300 --> 00:00:27,000 | Ranu | I did not go.
+S11 | 00:00:27,300 --> 00:00:30,000 | Tena | In my family, my older brother is called loru.
+S12 | 00:00:30,300 --> 00:00:33,500 | Mira | Are you going home tomorrow, or are you joking?

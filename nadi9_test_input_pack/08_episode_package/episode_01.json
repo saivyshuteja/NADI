@@ -1,0 +1,98 @@
+[
+  {
+    "subtitle_id": "S01",
+    "start": "00:00:01,000",
+    "end": "00:00:03,000",
+    "speaker": "Mira",
+    "source": "Good morning, elder.",
+    "scene": "family kitchen"
+  },
+  {
+    "subtitle_id": "S02",
+    "start": "00:00:03,200",
+    "end": "00:00:05,000",
+    "speaker": "Ranu",
+    "source": "Good morning, friend.",
+    "scene": "family kitchen"
+  },
+  {
+    "subtitle_id": "S03",
+    "start": "00:00:05,500",
+    "end": "00:00:08,000",
+    "speaker": "Ranu",
+    "source": "I went home yesterday.",
+    "scene": "street"
+  },
+  {
+    "subtitle_id": "S04",
+    "start": "00:00:08,300",
+    "end": "00:00:10,300",
+    "speaker": "Mira",
+    "source": "Please wait, elder.",
+    "scene": "family room"
+  },
+  {
+    "subtitle_id": "S05",
+    "start": "00:00:10,600",
+    "end": "00:00:13,000",
+    "speaker": "Mira",
+    "source": "Do not go there.",
+    "scene": "river path"
+  },
+  {
+    "subtitle_id": "S06",
+    "start": "00:00:13,300",
+    "end": "00:00:16,000",
+    "speaker": "Ranu",
+    "source": "We will work tomorrow.",
+    "scene": "workshop"
+  },
+  {
+    "subtitle_id": "S07",
+    "start": "00:00:16,300",
+    "end": "00:00:19,500",
+    "speaker": "Kiro",
+    "source": "That joke was totally cool, bro.",
+    "scene": "market"
+  },
+  {
+    "subtitle_id": "S08",
+    "start": "00:00:19,800",
+    "end": "00:00:22,000",
+    "speaker": "Tena",
+    "source": "Thank you, teacher.",
+    "scene": "classroom"
+  },
+  {
+    "subtitle_id": "S09",
+    "start": "00:00:22,300",
+    "end": "00:00:24,000",
+    "speaker": "Mira",
+    "source": "Come here, elder.",
+    "scene": "family room"
+  },
+  {
+    "subtitle_id": "S10",
+    "start": "00:00:24,300",
+    "end": "00:00:27,000",
+    "speaker": "Ranu",
+    "source": "I did not go.",
+    "scene": "street"
+  },
+  {
+    "subtitle_id": "S11",
+    "start": "00:00:27,300",
+    "end": "00:00:30,000",
+    "speaker": "Tena",
+    "source": "In my family, my older brother is called loru.",
+    "scene": "family kitchen"
+  },
+  {
+    "subtitle_id": "S12",
+    "start": "00:00:30,300",
+    "end": "00:00:33,500",
+    "speaker": "Mira",
+    "source": "Are you going home tomorrow, or are you joking?",
+    "scene": "street"
+  }
+]

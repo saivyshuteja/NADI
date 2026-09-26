@@ -1,0 +1,22 @@
+entry_id,term,meaning,category,source
+B001,sava,morning greeting,common,community_dictionary
+B002,toren,older sibling; respectful elder,kinship,community_dictionary
+B003,neli,friend; close peer,kinship,community_dictionary
+B004,doma,go,verb,community_dictionary
+B005,ke,current action marker,grammar,community_dictionary
+B006,ta-ke,completed past marker,grammar,community_dictionary
+B007,lo-ke,future intention marker,grammar,community_dictionary
+B008,na,negation,grammar,community_dictionary
+B009,sela,sit,verb,community_dictionary
+B010,va,softening/respect particle,pragmatics,community_dictionary
+B011,kava,work,verb,community_dictionary
+B012,sena,thanks,common,community_dictionary
+B013,loru,"teacher; in some families, older sibling",kinship,community_dictionary
+B014,vesa,late,adjective,community_dictionary
+B015,rako,call,verb,community_dictionary
+B016,hara,come here,verb,community_dictionary
+B017,ra,that,pronoun,community_dictionary
+B018,mi,I,pronoun,community_dictionary
+B019,ni,we,pronoun,community_dictionary
+B020,tu,you,pronoun,community_dictionary
+B021,kori,elder sibling,kinship,community_dictionary

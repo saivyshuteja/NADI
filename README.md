@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nadi-9 Agentic Subtitle Platform
 
 Evidence-grounded agent that learns a **fictional** dialect from incomplete, conflicting material and produces subtitle *decisions* (including abstention), not fluent guesses.
@@ -119,3 +120,6 @@ See [KNOWN_LIMITATIONS.md](KNOWN_LIMITATIONS.md).
 ## 21. Future improvements
 
 Swap the lexical index for pgvector/Qdrant, add real ASR, and add dialect_id routing.
+=======
+# NADI
+>>>>>>> e1ae80b1cd1b2de77c130b72973f9a2dc7cc734e

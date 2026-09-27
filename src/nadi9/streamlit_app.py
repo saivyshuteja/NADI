@@ -8,6 +8,36 @@ if str(SRC_PATH) not in sys.path:
     sys.path.insert(0, str(SRC_PATH))
 from __future__ import annotations
 
+# Why parents[1]?
+
+# Your file is:
+
+# /mount/src/nadi/src/nadi9/streamlit_app.py
+
+# Therefore:
+
+# Path(__file__).resolve()
+
+# gives:
+
+# /mount/src/nadi/src/nadi9/streamlit_app.py
+
+# parents[0]:
+
+# /mount/src/nadi/src/nadi9
+
+# parents[1]:
+
+# /mount/src/nadi/src
+
+# That's exactly the directory Python needs to find:
+
+# nadi9/
+
+# So Python can then resolve:
+
+# from nadi9.config.settings import ROOT, Settings
+
 import io
 import json
 import tempfile

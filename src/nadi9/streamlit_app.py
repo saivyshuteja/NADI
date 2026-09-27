@@ -1,3 +1,11 @@
+
+import sys
+from pathlib import Path
+
+SRC_PATH = Path(__file__).resolve().parents[1]
+
+if str(SRC_PATH) not in sys.path:
+    sys.path.insert(0, str(SRC_PATH))
 from __future__ import annotations
 
 import io
@@ -9,13 +17,13 @@ from pathlib import Path
 
 import streamlit as st
 
-from src.nadi9.config.settings import ROOT, Settings
-from src.nadi9.custom_inputs import ROLE_LABELS, SUPPORTED_SUFFIXES, normalize_custom_files, suggest_role
-from src.nadi9.evidence.loader import load_evidence
-from src.nadi9.graph.graph import replan_with_correction, run_pipeline
-from src.nadi9.input_pack import is_input_pack, prepare_input_pack
-from src.nadi9.reporting import write_sample_run
-from src.nadi9.tools.subtitle import to_srt
+from nadi9.config.settings import ROOT, Settings
+from nadi9.custom_inputs import ROLE_LABELS, SUPPORTED_SUFFIXES, normalize_custom_files, suggest_role
+from nadi9.evidence.loader import load_evidence
+from nadi9.graph.graph import replan_with_correction, run_pipeline
+from nadi9.input_pack import is_input_pack, prepare_input_pack
+from nadi9.reporting import write_sample_run
+from nadi9.tools.subtitle import to_srt
 
 
 WEIGHTS = {
